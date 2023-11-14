@@ -3,6 +3,7 @@ int buttonPin1 = 32;
 bool lastState1 = LOW;
 bool state1 = LOW;
 
+/////////TESTINGGGGGGGGGGGGGGGGGGG
 // Button 2
 int buttonPin2 = 31;
 bool lastState2 = LOW;
